@@ -1,21 +1,17 @@
-# Hi there, I'm Valcones 👋
+### Valcones
 
-Software developer and Linux enthusiast building fast system utilities, modding tools, and custom desktop environments.
-
-- 🦀 Crafting native performance tools with **Rust**
-- 🪟 Customizing **Hyprland** with reactive desktop shells in **Quickshell / QML**
-- 🐧 Daily driving **CachyOS / Arch Linux** with a focus on speed and desktop orchestration
+Rust & Linux developer. Working on desktop tooling, Hyprland shell extensions, and Linux modding utilities.
 
 ---
 
-### 🚀 Featured Projects
+#### Projects
 
-- **[linex-mods](https://github.com/Valcones47/linex-mods)** — A Linux-native mod manager built in Rust designed to bring seamless, Vortex-like game modding to Linux.
-- **[hollow-wired](https://github.com/Valcones47/hollow-wired)** — Responsive, hardware-accelerated desktop shell for Hyprland powered by Quickshell, dynamic Material You theming, and hybrid GPU orchestration.
+* **[linex-mods](https://github.com/Valcones47/linex-mods)** — Mod manager made in Rust that works like Vortex, built to simplify modding on Linux.
+* **[hollow-wired](https://github.com/Valcones47/hollow-wired)** — Hardware-accelerated Hyprland desktop shell powered by Quickshell and QML.
 
 ---
 
-### 💻 Tech Stack & Environment
+#### Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-40bfbf?style=for-the-badge&logo=cachyos&logoColor=white)
@@ -28,7 +24,5 @@ Software developer and Linux enthusiast building fast system utilities, modding 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Activity
 
 [![Terminal Stats](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Valcones47&theme=tokyonight)](https://github.com/Valcones47)
