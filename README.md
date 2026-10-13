@@ -6,7 +6,7 @@ Rust & Linux developer. Working on desktop tooling, Hyprland shell extensions, a
 
 #### Main Projects
 
-* **[linex-mods](https://github.com/LinCastr/linex-mods)** — Mod manager made in Rust that works like Vortex, built to simplify modding on Linux.
+* **[lincast-mods](https://github.com/LinCastr/lincast-mods)** — Mod manager made in Rust that works like Vortex, built to simplify modding on Linux.
 * **[hollow-wired](https://github.com/LinCastr/hollow-wired)** — Hardware-accelerated Hyprland desktop shell powered by Quickshell and QML.
 
 ---
