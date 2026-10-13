@@ -4,7 +4,7 @@ Rust & Linux developer. Working on desktop tooling, Hyprland shell extensions, a
 
 ---
 
-#### Projects
+#### Main Projects
 
 * **[linex-mods](https://github.com/Valcones47/linex-mods)** — Mod manager made in Rust that works like Vortex, built to simplify modding on Linux.
 * **[hollow-wired](https://github.com/Valcones47/hollow-wired)** — Hardware-accelerated Hyprland desktop shell powered by Quickshell and QML.
